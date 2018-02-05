@@ -2,4 +2,4 @@ Code sample for http://cangaceirojavascript.com.br/indexeddb-implementando-soluc
 
 ## Instructions
 
-You need to serve the project folder through an http server of your choice.
+You need to serve the project folder through a http server of your choice.
